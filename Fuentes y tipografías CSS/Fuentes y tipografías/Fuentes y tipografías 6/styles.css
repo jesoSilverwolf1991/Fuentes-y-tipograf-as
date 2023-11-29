@@ -1,0 +1,21 @@
+
+.izquierda {
+    text-align: left; 
+    color: #333;
+  }
+  
+  .centro {
+    text-align: center; 
+    color: #333; /
+  }
+  
+  .derecha {
+    text-align: right; 
+    color: #333; 
+  }
+  
+  .justificado {
+    text-align: justify; 
+    color: #333; 
+  }
+  

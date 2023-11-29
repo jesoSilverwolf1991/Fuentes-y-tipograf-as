@@ -1,0 +1,17 @@
+
+.negrita {
+    font-weight: bold; 
+    color: #333; 
+  }
+  
+  .cursiva {
+    font-style: italic; 
+    color: #333;
+  }
+  
+  .negrita-cursiva {
+    font-weight: bold; 
+    font-style: italic; 
+    color: #333; 
+  }
+  

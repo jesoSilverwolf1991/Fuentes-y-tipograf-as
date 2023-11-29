@@ -1,0 +1,38 @@
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  main {
+    max-width: 600px;
+    margin: 20px auto;
+  }
+  
+  .styled-blockquote {
+    font-family: 'Georgia', serif;
+    font-size: 1.2em;
+    border-left: 3px solid #007bff;
+    padding-left: 15px;
+    margin: 20px 0;
+  }
+  
+  .styled-blockquote p {
+    margin: 0;
+  }
+  
+  .styled-blockquote footer {
+    margin-top: 10px;
+    text-align: right;
+    font-style: italic;
+    color: #777;
+  }
+  
